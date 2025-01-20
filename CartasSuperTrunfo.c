@@ -5,7 +5,7 @@
         char Nome[20];
         float População;
         float Área;
-        float PIB[20];
+        float PIB;
         int Pontos;
 
         printf ("Digite o código da cidade\n");
