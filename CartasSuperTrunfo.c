@@ -33,5 +33,5 @@
     printf ("PIB: %f\n", PIB);
     printf ("Pontos Turisticos: %d\n", Pontos);
 
-    return 0
+    return 0;
     }
